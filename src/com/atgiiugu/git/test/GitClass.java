@@ -9,5 +9,6 @@ public class GitClass {
 		System.out.println("update04");
 		System.out.println("update05");
 		System.out.println("update06");
+		System.out.println("update07");
 	}
 }
